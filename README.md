@@ -5,3 +5,5 @@ extinction rebellion alchemists
 ![](xra.png)
 [xra.png](xra.png)
 
+## licence
+extinction rebellion alchimists logo by Claudio Pannacci is marked with CC0 1.0 Universal 
