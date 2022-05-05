@@ -1,4 +1,7 @@
 # xra
-extinction rebellion alchemists 
+extinction rebellion alchemists
+
+## logo (concept)
 ![](xra.png)
 [xra.png](xra.png)
+
