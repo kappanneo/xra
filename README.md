@@ -8,14 +8,18 @@ extinction rebellion alchemists
 ### .licence
 extinction rebellion alchimists logo by Claudio Pannacci is marked with CC0 1.0 Universal 
 
-## instances
+## instance.s
 
-### instances.instance0
+### instance.0
 @ nerd parade organized by [shi-fi book bokhandeln](https://www.sfbok.se/) (**warning**: **not pirate-friendly**, sides with the navy), in göteborg sweden for my 26th birthday (2022-05-26)
-![instance0.png](instance0.png)
+![instance.0.png](instance.0.png)
 
-### instances.instance1
+### instance.1
+escaping salgrenska with the loot (mainly paper and plastic)
+![instance.1.png](instance.1.png)
+
+### instance.2
 default pirate/greed
-![instance1a.png](instance1a)
-![instance1b.png](instance1b)
-![instance1c.png](instance1c)
+![instance.2.jpg](instance.2.jpg)
+
+
