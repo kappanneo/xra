@@ -15,11 +15,7 @@ extinction rebellion alchimists logo by Claudio Pannacci is marked with CC0 1.0 
 ![instance.0.png](instance.0.png)
 
 ### instance.1
-escaping salgrenska with the loot (mainly paper and plastic)
-![instance.1.png](instance.1.png)
-
-### instance.2
 default pirate/greed
-![instance.2.jpg](instance.2.jpg)
+![instance.1.jpg](instance.1.jpg)
 
 
