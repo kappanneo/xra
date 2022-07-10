@@ -15,7 +15,7 @@ extinction rebellion alchimists logo by Claudio Pannacci is marked with CC0 1.0 
 ![instance.0.png](instance.0.png)
 
 ### instance.1
-default pirate/greed
-![instance.1.jpg](instance.1.jpg)
-
-
+@ psykiatri vard (akutmottagning) where i'm being treated for my newly (and finally) diagnosed bipolar disorder type 2 (2022-07-10)
+![instance.1.a.jpg](instance.1.a.jpg)
+![instance.1.b.jpg](instance.1.b.jpg)
+![instance.1.c.jpg](instance.1.c.jpg)
